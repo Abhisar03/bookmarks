@@ -1,0 +1,20 @@
+* {background-color:#ececec    ;}
+
+header {text-align:center; text-transform:uppercase; text-size:100%; font}
+h1 {font-size: 1.5em; font-weight: bold;
+    font-family: cursive; text-transform: uppercase; text-decoration: underline;color :#142d4c;}
+
+
+
+    #yay5{ background-color :#9fd3c7;
+    color :white}
+    
+
+    * {color : #385170;}
+
+h2 {font-family: cursive; font-size:2.5em; background:#385170;color :white;}
+
+#yay1 {background-color : #385170; color :white}
+#yay2 {background-color :#385170 ; color :white; font-weight: bold;background-size: 2em;}
+#yay5:hover {background-color: #00bebe}
+#yay1:hover {background-color: #142d4c}
